@@ -1,0 +1,13 @@
+.venv\Scripts\activate
+
+PS C:\Users\ALUMNOS.LAPTOP-FV6J1C12\Documents\Juan Miguel\Repositorios\campus> .venv\Scripts\activate
+
+para activar el flash cada vez que reinicia la sesión
+
+
+para instalar el framework.
+      pip install Flask
+
+
+
+      flask --app app run 
